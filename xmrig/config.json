@@ -113,7 +113,7 @@
             "algo": "rx/0",
             "coin": null,
             "url": "stratum+tcp://randomxmonero.auto.nicehash.com:9200",
-            "user": "NHbTm3uLhFufrA98Ck2PRC8Ln4atVewYQhce",
+            "user": "NHbTm3uLhFufrA98Ck2PRC8Ln4atVewYQhce.grunt1",
             "pass": "x",
             "rig-id": null,
             "nicehash": true,
